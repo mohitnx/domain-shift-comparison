@@ -1,0 +1,15 @@
+# datasets (download locally per README, don't commit)
+data/
+lara2018/
+
+# trained weights
+*.pt
+*.pth
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# os
+.DS_Store
